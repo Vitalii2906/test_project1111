@@ -8,7 +8,7 @@ from aiogram.enums.dice_emoji import DiceEmoji
 # Включаем логирование, чтобы не пропустить важные сообщения
 logging.basicConfig(level=logging.INFO)
 # Объект бота
-bot = Bot(token="6169598571:AAFWyHbWoRzVu5eoMcWpcNk3IFQjx_y5DDM")
+bot = Bot(token="6519883503:AAHAydHOeTXFCLS3YeuIbMjbLVygrFxwZA8")
 # Диспетчер
 dp = Dispatcher()
 
